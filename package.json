@@ -12,6 +12,7 @@
     "@react-three/drei": "^9.74.16",
     "@react-three/fiber": "^8.13.3",
     "autoprefixer": "10.4.14",
+    "leva": "^0.9.35",
     "next": "13.4.6",
     "postcss": "8.4.24",
     "react": "18.2.0",
